@@ -22,6 +22,9 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Function to load data and handle file upload if not found
+# Function to load data and handle file upload if not found
+# Function to load data and handle file upload if not found
+# Function to load data and handle file upload if not found
 def load_data(file_path):
     if not os.path.exists(file_path):
         print("File not found. Please upload the food.csv file.")
